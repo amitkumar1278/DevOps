@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="diagrams">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DockerKubernates/diagrams.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
